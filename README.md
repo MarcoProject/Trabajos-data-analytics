@@ -1,4 +1,12 @@
-# <p align="center">DASHBOARDS</p>                                                                  
+# <p align="center">DASHBOARDS</p>    
+#          <p align="center">AIRBNB NUEVA YORK</p>
+# ![image](https://github.com/user-attachments/assets/4823b1a4-3b4b-406a-8abe-9a9c94db0bee)
+
+
+
+
+
+
 #          <p align="center">BICICLETAS EN EUROPA Y NORTE AMERICA</p>
 # ![Abajo](https://img.icons8.com/?size=100&id=gXroMWBr5XPl&format=png&color=000000) PORTADA DINAMICA
 ![image](https://github.com/user-attachments/assets/41f6b98e-c107-41f8-9689-87d2d99e30a4)
