@@ -4,14 +4,10 @@
 # ![image](https://github.com/user-attachments/assets/4823b1a4-3b4b-406a-8abe-9a9c94db0bee) 
 #          <p align="center">PAGINA 1</p>
 #  ![image](https://github.com/user-attachments/assets/19477655-5eea-420f-b3b2-f8d160bc9a8c)
-
-
-
-
-
-
-
-
+#          <p align="center">PAGINA 2</p>
+#  ![image](https://github.com/user-attachments/assets/9e951f20-ccde-4c55-8a40-de768ee2681f)
+#          <p align="center">PAGINA 3</p>
+#  ![image](https://github.com/user-attachments/assets/d392546f-916f-46e6-9168-9a9ce02649a2)
 #          <p align="center">BICICLETAS EN EUROPA Y NORTE AMERICA</p>
 # ![Abajo](https://img.icons8.com/?size=100&id=gXroMWBr5XPl&format=png&color=000000) PORTADA DINAMICA
 ![image](https://github.com/user-attachments/assets/41f6b98e-c107-41f8-9689-87d2d99e30a4)
