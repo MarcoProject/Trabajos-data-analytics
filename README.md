@@ -2,6 +2,10 @@
 #          <p align="center">AIRBNB NUEVA YORK</p>
 #          <p align="center">PORTADA</p>
 # ![image](https://github.com/user-attachments/assets/4823b1a4-3b4b-406a-8abe-9a9c94db0bee) 
+#          <p align="center">PAGINA 1</p>
+#  ![image](https://github.com/user-attachments/assets/19477655-5eea-420f-b3b2-f8d160bc9a8c)
+
+
 
 
 
