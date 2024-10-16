@@ -1,6 +1,6 @@
 # <p align="center">DASHBOARDS</p>    
 #          <p align="center">AIRBNB NUEVA YORK</p>
-# ![image](https://github.com/user-attachments/assets/4823b1a4-3b4b-406a-8abe-9a9c94db0bee)
+# ![image](https://github.com/user-attachments/assets/4823b1a4-3b4b-406a-8abe-9a9c94db0bee) PORTADA DINAMICA
 
 
 
